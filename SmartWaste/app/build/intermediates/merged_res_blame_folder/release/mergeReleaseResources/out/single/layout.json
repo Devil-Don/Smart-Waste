@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-mergeReleaseResources-41:/layout/activity_driver_dashboard.xml",
+        "source": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-main-43:/layout/activity_driver_dashboard.xml"
+    },
+    {
+        "merged": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-mergeReleaseResources-41:/layout/activity_main.xml",
+        "source": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-main-43:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-mergeReleaseResources-41:/layout/activity_report_issue.xml",
+        "source": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-main-43:/layout/activity_report_issue.xml"
+    },
+    {
+        "merged": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-mergeReleaseResources-41:/layout/activity_bin_collection.xml",
+        "source": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-main-43:/layout/activity_bin_collection.xml"
+    },
+    {
+        "merged": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-mergeReleaseResources-41:/layout/activity_driver_performance.xml",
+        "source": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-main-43:/layout/activity_driver_performance.xml"
+    },
+    {
+        "merged": "com.qbrain.smartwaste.app-mergeReleaseResources-41:/layout/activity_login.xml",
+        "source": "com.qbrain.smartwaste.app-main-43:/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-mergeReleaseResources-41:/layout/activity_bin_details.xml",
+        "source": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-main-43:/layout/activity_bin_details.xml"
+    },
+    {
+        "merged": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-mergeReleaseResources-41:/layout/item_route_stop.xml",
+        "source": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-main-43:/layout/item_route_stop.xml"
+    },
+    {
+        "merged": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-mergeReleaseResources-41:/layout/activity_citizen_dashboard.xml",
+        "source": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-main-43:/layout/activity_citizen_dashboard.xml"
+    },
+    {
+        "merged": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-mergeReleaseResources-41:/layout/activity_profile.xml",
+        "source": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-main-43:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-mergeReleaseResources-41:/layout/activity_register.xml",
+        "source": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-main-43:/layout/activity_register.xml"
+    },
+    {
+        "merged": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-mergeReleaseResources-41:/layout/item_nearby_bin.xml",
+        "source": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-main-43:/layout/item_nearby_bin.xml"
+    },
+    {
+        "merged": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-mergeReleaseResources-41:/layout/activity_login.xml",
+        "source": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-main-43:/layout/activity_login.xml"
+    }
+]

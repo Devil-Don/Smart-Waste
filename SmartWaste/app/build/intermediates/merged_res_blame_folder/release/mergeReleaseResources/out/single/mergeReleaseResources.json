@@ -1,0 +1,242 @@
+[
+    {
+        "merged": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-release-42:/drawable_ic_camera.xml.flat",
+        "source": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-main-43:/drawable/ic_camera.xml"
+    },
+    {
+        "merged": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-release-42:/drawable_ic_play.xml.flat",
+        "source": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-main-43:/drawable/ic_play.xml"
+    },
+    {
+        "merged": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-release-42:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-main-43:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-release-42:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-main-43:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-release-42:/drawable_ic_arrow_forward.xml.flat",
+        "source": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-main-43:/drawable/ic_arrow_forward.xml"
+    },
+    {
+        "merged": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-release-42:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-main-43:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-release-42:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-main-43:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-release-42:/drawable_ic_notifications.xml.flat",
+        "source": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-main-43:/drawable/ic_notifications.xml"
+    },
+    {
+        "merged": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-release-42:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-main-43:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-release-42:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-main-43:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-release-42:/drawable_ic_organic.xml.flat",
+        "source": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-main-43:/drawable/ic_organic.xml"
+    },
+    {
+        "merged": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-release-42:/layout_activity_driver_dashboard.xml.flat",
+        "source": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-main-43:/layout/activity_driver_dashboard.xml"
+    },
+    {
+        "merged": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-release-42:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-main-43:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-release-42:/drawable_ic_delete.xml.flat",
+        "source": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-main-43:/drawable/ic_delete.xml"
+    },
+    {
+        "merged": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-release-42:/layout_activity_profile.xml.flat",
+        "source": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-main-43:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-release-42:/drawable_ic_truck.xml.flat",
+        "source": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-main-43:/drawable/ic_truck.xml"
+    },
+    {
+        "merged": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-release-42:/drawable_ic_edit.xml.flat",
+        "source": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-main-43:/drawable/ic_edit.xml"
+    },
+    {
+        "merged": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-release-42:/drawable_spinner_background.xml.flat",
+        "source": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-main-43:/drawable/spinner_background.xml"
+    },
+    {
+        "merged": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-release-42:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-main-43:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-release-42:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-main-43:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-release-42:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-main-43:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-release-42:/drawable_ic_save.xml.flat",
+        "source": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-main-43:/drawable/ic_save.xml"
+    },
+    {
+        "merged": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-release-42:/layout_activity_bin_collection.xml.flat",
+        "source": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-main-43:/layout/activity_bin_collection.xml"
+    },
+    {
+        "merged": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-release-42:/drawable_ic_location.xml.flat",
+        "source": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-main-43:/drawable/ic_location.xml"
+    },
+    {
+        "merged": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-release-42:/drawable_ic_phone.xml.flat",
+        "source": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-main-43:/drawable/ic_phone.xml"
+    },
+    {
+        "merged": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-release-42:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-main-43:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-release-42:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-main-43:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-release-42:/drawable_ic_send.xml.flat",
+        "source": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-main-43:/drawable/ic_send.xml"
+    },
+    {
+        "merged": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-release-42:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-main-43:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-release-42:/drawable_ic_logout.xml.flat",
+        "source": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-main-43:/drawable/ic_logout.xml"
+    },
+    {
+        "merged": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-release-42:/drawable_ic_description.xml.flat",
+        "source": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-main-43:/drawable/ic_description.xml"
+    },
+    {
+        "merged": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-release-42:/drawable_ic_recycle.xml.flat",
+        "source": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-main-43:/drawable/ic_recycle.xml"
+    },
+    {
+        "merged": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-release-42:/drawable_ic_menu.xml.flat",
+        "source": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-main-43:/drawable/ic_menu.xml"
+    },
+    {
+        "merged": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-release-42:/drawable_ic_stop.xml.flat",
+        "source": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-main-43:/drawable/ic_stop.xml"
+    },
+    {
+        "merged": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-release-42:/drawable_ic_lock.xml.flat",
+        "source": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-main-43:/drawable/ic_lock.xml"
+    },
+    {
+        "merged": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-release-42:/menu_menu_citizen_dashboard.xml.flat",
+        "source": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-main-43:/menu/menu_citizen_dashboard.xml"
+    },
+    {
+        "merged": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-release-42:/drawable_ic_route.xml.flat",
+        "source": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-main-43:/drawable/ic_route.xml"
+    },
+    {
+        "merged": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-release-42:/drawable_circle_primary.xml.flat",
+        "source": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-main-43:/drawable/circle_primary.xml"
+    },
+    {
+        "merged": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-release-42:/drawable_ic_refresh.xml.flat",
+        "source": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-main-43:/drawable/ic_refresh.xml"
+    },
+    {
+        "merged": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-release-42:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-main-43:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-release-42:/menu_menu_driver_dashboard.xml.flat",
+        "source": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-main-43:/menu/menu_driver_dashboard.xml"
+    },
+    {
+        "merged": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-release-42:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-main-43:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-release-42:/layout_activity_login.xml.flat",
+        "source": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-main-43:/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-release-42:/layout_activity_register.xml.flat",
+        "source": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-main-43:/layout/activity_register.xml"
+    },
+    {
+        "merged": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-release-42:/drawable_ic_check.xml.flat",
+        "source": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-main-43:/drawable/ic_check.xml"
+    },
+    {
+        "merged": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-release-42:/layout_activity_report_issue.xml.flat",
+        "source": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-main-43:/layout/activity_report_issue.xml"
+    },
+    {
+        "merged": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-release-42:/layout_activity_citizen_dashboard.xml.flat",
+        "source": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-main-43:/layout/activity_citizen_dashboard.xml"
+    },
+    {
+        "merged": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-release-42:/layout_activity_driver_performance.xml.flat",
+        "source": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-main-43:/layout/activity_driver_performance.xml"
+    },
+    {
+        "merged": "com.qbrain.smartwaste.app-release-42:/layout_activity_login.xml.flat",
+        "source": "com.qbrain.smartwaste.app-main-43:/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-release-42:/layout_activity_bin_details.xml.flat",
+        "source": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-main-43:/layout/activity_bin_details.xml"
+    },
+    {
+        "merged": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-release-42:/drawable_ic_camera_placeholder.xml.flat",
+        "source": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-main-43:/drawable/ic_camera_placeholder.xml"
+    },
+    {
+        "merged": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-release-42:/drawable_ic_report.xml.flat",
+        "source": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-main-43:/drawable/ic_report.xml"
+    },
+    {
+        "merged": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-release-42:/drawable_ic_notes.xml.flat",
+        "source": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-main-43:/drawable/ic_notes.xml"
+    },
+    {
+        "merged": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-release-42:/xml_backup_rules.xml.flat",
+        "source": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-main-43:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-release-42:/drawable_ic_email.xml.flat",
+        "source": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-main-43:/drawable/ic_email.xml"
+    },
+    {
+        "merged": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-release-42:/drawable_ic_person.xml.flat",
+        "source": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-main-43:/drawable/ic_person.xml"
+    },
+    {
+        "merged": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-release-42:/layout_item_nearby_bin.xml.flat",
+        "source": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-main-43:/layout/item_nearby_bin.xml"
+    },
+    {
+        "merged": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-release-42:/drawable_ic_weight.xml.flat",
+        "source": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-main-43:/drawable/ic_weight.xml"
+    },
+    {
+        "merged": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-release-42:/layout_item_route_stop.xml.flat",
+        "source": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-main-43:/layout/item_route_stop.xml"
+    },
+    {
+        "merged": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-release-42:/layout_activity_main.xml.flat",
+        "source": "/Users/nkalam/.gradle/daemon/8.13/com.qbrain.smartwaste.app-main-43:/layout/activity_main.xml"
+    }
+]
